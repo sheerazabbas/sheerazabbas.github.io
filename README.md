@@ -1,17 +1,3 @@
-<div align="center">
-  <img alt="Logo" src="./images/me/logo.jpg" width="100" />
-</div>
-<h1 align="center">
-  Brogrammer ;)
-</h1>
-<!-- <p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
-  </a>
-</p> -->
-
-![sheerazabbas](./images/me/hero.png)
-
 ## About
 Brogrammer with multiple years of experience, a passionate software engineer and agile practitioner.
 
