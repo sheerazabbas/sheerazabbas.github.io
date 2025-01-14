@@ -1,5 +1,5 @@
 #### 🙋🏻‍♂️ About
-Hey, I'm Sheeraz Abbas brogrammer, a passionate software engineer and agile practitionera, solutions architect, founder, and entrepreneur. Love solving problems, interacting with the community, sharing knowledge, and learning new things. 
+Hey, I'm Sheeraz Abbas brogrammer, a passionate software engineer and agile practitioner, solutions architect, founder, and entrepreneur. Love solving problems, interacting with the community, sharing knowledge, and learning new things. 
 
 Experienced in providing custom solutions, skilled with cloud, serverless, and AWS's multiple services, building environments from the scratch up to production level.
 
