@@ -1,4 +1,4 @@
-### 🙋🏻‍♂️ About
+#### 🙋🏻‍♂️ About
 Hey, I'm Sheeraz Abbas brogrammer, a passionate software engineer and agile practitionera, solutions architect, founder, and entrepreneur. Love solving problems, interacting with the community, sharing knowledge, and learning new things. 
 
 Experienced in providing custom solutions, skilled with cloud, serverless, and AWS's multiple services, building environments from the scratch up to production level.
@@ -9,7 +9,7 @@ Experienced in providing custom solutions, skilled with cloud, serverless, and A
 
 ## 
 
-### 📫 Feel free to connect!
+#### 📫 Feel free to connect!
 Let's code, connect, and create awesome things together!
 
 [![Gmail](https://img.shields.io/badge/-m.sheeraz.it@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:m.sheeraz.it@gmail.com)
@@ -21,7 +21,7 @@ Let's code, connect, and create awesome things together!
 
 ##
 
-### ☕️ Support
+#### ☕️ Support
 Advance thanks for visiting, supporting, and welcome awesome feedback :))
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P018ZSIU)
@@ -29,7 +29,7 @@ Advance thanks for visiting, supporting, and welcome awesome feedback :))
 
 ##
 
-### ⋮ more ...
+#### ⋮ more ...
 
 <table>
   <tr>
@@ -40,15 +40,17 @@ Advance thanks for visiting, supporting, and welcome awesome feedback :))
 
 ## 
 
-### 🍿 fun fact
+#### 🍿 fun fact
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=sheerazabbas&countColor=%232ccce4&style=flat&labelStyle=upper)
 [![LeetCode user sheerazabbas](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsheerazabbas&logo=leetcode&logoColor=yellow)](https://leetcode.com/sheerazabbas/)
 ![open source love](https://img.shields.io/badge/Open%20Source-♥️-43853D)
 ![me quot](https://img.shields.io/badge/❝❞%20winning%20!=%20success-2496ED?style=flat)
 
-### 🚨 TL;DR
+##
 
-💡 Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
+##### 🚨 TL;DR
 
-💡 Yes, you can fork this repo. Please give me proper credit :) by linking back to sheerazabbas.github.io. Thanks!
+💡 _Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**._
+
+💡 _Yes, you can fork this repo. Please give me proper credit :) by linking back to sheerazabbas.github.io. Thanks!_
