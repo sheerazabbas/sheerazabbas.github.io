@@ -14,5 +14,5 @@ Skilled with Cloud, Serverless, and AWS's multiple services and in building envi
 
 Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
 
-Yes, you can fork this repo. Please give me proper credit :) by linking back to [sheerazabbas](sheerazabbas.github.io/). Thanks!
+Yes, you can fork this repo. Please give me proper credit :) by linking back to sheerazabbas.github.io. Thanks!
 
