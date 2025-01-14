@@ -29,6 +29,15 @@ Advance thanks for visiting, supporting, and welcome awesome feedback :))
 
 ##
 
+#### 🍿 fun fact
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=sheerazabbas&countColor=%232ccce4&style=flat&labelStyle=upper)
+[![LeetCode user sheerazabbas](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsheerazabbas&logo=leetcode&logoColor=yellow)](https://leetcode.com/sheerazabbas/)
+![open source love](https://img.shields.io/badge/Open%20Source-♥️-43853D)
+![me quot](https://img.shields.io/badge/❝❞%20winning%20!=%20success-2496ED?style=flat)
+
+## 
+
 #### ⋮ more ...
 
 <table>
@@ -39,15 +48,6 @@ Advance thanks for visiting, supporting, and welcome awesome feedback :))
 </table>
 
 ## 
-
-#### 🍿 fun fact
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=sheerazabbas&countColor=%232ccce4&style=flat&labelStyle=upper)
-[![LeetCode user sheerazabbas](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsheerazabbas&logo=leetcode&logoColor=yellow)](https://leetcode.com/sheerazabbas/)
-![open source love](https://img.shields.io/badge/Open%20Source-♥️-43853D)
-![me quot](https://img.shields.io/badge/❝❞%20winning%20!=%20success-2496ED?style=flat)
-
-##
 
 ##### 🚨 TL;DR
 
