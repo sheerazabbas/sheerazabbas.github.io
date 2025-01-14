@@ -16,3 +16,9 @@ Many people have contacted me asking me if they can use this code for their own 
 
 Yes, you can fork this repo. Please give me proper credit :) by linking back to sheerazabbas.github.io. Thanks!
 
+Thank you for visiting, supporting, and giving awesome feedback :))
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P018ZSIU)
+[![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on%20Patreon-000?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/bePatron?u=156223860)
+
+
