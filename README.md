@@ -1,7 +1,7 @@
 #### 🙋🏻‍♂️ About
 Hey, I'm Sheeraz Abbas brogrammer, a passionate software engineer and agile practitioner, solutions architect, founder, and entrepreneur. Love solving problems, interacting with the community, sharing knowledge, and learning new things. 
 
-Experienced in providing custom solutions, skilled with cloud, serverless, and AWS's multiple services, building environments from the scratch up to production level.
+Experienced in providing custom solutions, skilled with cloud, serverless, AWS's multiple services and OTT, building environments from the scratch up to production level.
 
 [![Website](https://img.shields.io/badge/-sheerazabbas.github.io-0078D4?style=flat&logo=Homepage&logoColor=white)](https://sheerazabbas.github.io/)
 [![Github](https://img.shields.io/badge/-@sheerazabbas-000?style=flat&logo=Github&logoColor=white)](https://github.com/sheerazabbas)
